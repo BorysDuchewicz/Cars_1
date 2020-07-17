@@ -1,0 +1,12 @@
+﻿  car.cpp
+  cars.cpp
+G:\KMProgramowanie\CPP\Zadania cpp\Cars\Cars\car.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  car_utils.cpp
+  car_validator.cpp
+  main.cpp
+  menu_service.cpp
+  user_data_service.cpp
+  Generating Code...
+G:\KMProgramowanie\CPP\Zadania cpp\Cars\Cars\cars.cpp(185,20): warning C4018: '<': signed/unsigned mismatch
+G:\KMProgramowanie\CPP\Zadania cpp\Cars\Cars\car.cpp(61): warning C4715: 'Car::operator=': not all control paths return a value
+  Cars.vcxproj -> G:\KMProgramowanie\CPP\Zadania cpp\Cars\Debug\Cars.exe

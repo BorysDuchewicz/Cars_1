@@ -1,0 +1,44 @@
+[
+  {
+
+    "color": "RED",
+    "components": [
+      "ABS",
+      "ALLOY WHEELS"
+    ],
+    "mileage": 1500,
+    "model": "BMW",
+    "price": 120
+  },
+  {
+    "model": "MAZDA",
+    "price": 160,
+    "color": "RED",
+    "mileage": 2500,
+    "components": [
+      "CAIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "PAZDA",
+    "price": 160,
+    "color": "GREEN",
+    "mileage": 2500,
+    "components": [
+      "LAIR CONDITIONING",
+      "DAIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 100,
+    "color": "RED",
+    "mileage": 2500,
+    "components": [
+      "CAIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  }
+]
